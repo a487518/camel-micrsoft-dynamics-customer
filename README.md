@@ -1,4 +1,4 @@
-# camel-micrsoft-dynamics-customer
+# 🚀 Apache Camel in Action: Event-Driven Integration with Microsoft Dynamics 💡
 An event-driven integration that listens to Microsoft Dynamics events via Solace, retrieves the complete dataset, and transforms it into the EDM (Enterprise Data Model) format.
 
 **Technologies**
